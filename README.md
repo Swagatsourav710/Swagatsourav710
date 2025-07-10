@@ -29,18 +29,19 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-</p>
+<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js" alt="Languages" /><br><br> <!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Frameworks" /><br><br>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><br><br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman" alt="Dev Tools" /><br><br>
+
+<!-- IDEs -->
+<img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode" alt="IDEs" /><br><br>
+
+<!-- Servers --> <img src="https://skillicons.dev/icons?i=tomcat" alt="Servers" /> </p>
 
 > 🧰 Also familiar with: **JDBC, JSP, Servlets**
 
