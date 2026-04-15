@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Spring Boot, Microservices**
 - 👯 I’m looking to collaborate on **Java-based open source projects**
 - 💬 Ask me about **Java, Spring, Hibernate, JDBC**
-- 📫 Reach me: **swagatsourav.dev@gmail.com**
+- 📫 Reach me: **swagatsourav446@gmail.com**
 - ⚡ Fun fact: *I love debugging more than coding sometimes*
 
 ---
